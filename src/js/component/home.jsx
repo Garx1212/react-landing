@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar.jsx";
 import Card from "./Card.jsx";
-import Footer from "./Footer.jsx";
+import Footer from "./footer.jsx";
 
 import rigoImage from "../../img/rigo-baby.jpg";
 
